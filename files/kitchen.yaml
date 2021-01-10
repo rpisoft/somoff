@@ -40,3 +40,4 @@ switch:
      pin: GPIO0
      restore_mode: ALWAYS_OFF
      id: kitchen_relay
+     
