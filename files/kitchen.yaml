@@ -1,1 +1,42 @@
 
+substitutions:
+  devicename: kitchen
+  friendly_name: Kitchen light
+  device_description: Kitchen switch
+  #reboot_timeout: 1h
+ 
+esphome:
+  name: $devicename
+  comment: ${device_description}
+  platform: ESP8266
+  board: esp01_1m
+  
+packages:
+    sensor: !include /config/uptime.yaml
+    wifi: !include /config/wifi.yaml
+
+wifi:
+  manual_ip:
+    static_ip: XXX.XXX.XXX.XXX
+    gateway: XXX.XXX.XXX.XXX
+    subnet: 255.255.255.0  
+    
+binary_sensor:
+   - platform: gpio
+     internal: true  
+     pin:
+       number: GPIO3
+       mode: INPUT_PULLUP
+       inverted: True
+     name: $friendly_name
+     on_press:
+       - switch.toggle: kitchen_relay
+     filters:
+       - delayed_on: 10ms      
+
+switch:
+   - platform: gpio
+     name: $friendly_name relay
+     pin: GPIO0
+     restore_mode: ALWAYS_OFF
+     id: kitchen_relay
