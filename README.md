@@ -1,5 +1,7 @@
 # somoff
-Another wall mount wifi switch
+Nastenný WIFI vypínač
 
 ## Som  off?
-Vzniklo pocas krizi ako napad ako lacnejsie vyriesit chytru domacnost
+Napad vznikol ako lacnejsie vyriesit chytru domacnost oproti existujucim znackam na trhu, hlavne k spokojnosti.
+
+Vacsina dostupnych blbosti ma vlastnu aplikaciu a len tazko sa dopracujete k tomu, aby ste vsetky prvky ovladali z rovnakej aplikacie a to ak bez pritomnosti internetu.
