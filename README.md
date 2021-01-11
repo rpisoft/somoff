@@ -34,8 +34,8 @@ Pretože súdruhovia vyhůtali modul tak, že miesto bootovania sa má spustiť 
 * Svorkovnica
 * Kábel 0,75mm
 * Obojstranné lepiaca páska
-* 50mm rurka na odtok pre umyvadlá
-* Tvrdený nepriesvitný plexit
+* 50mm PVC rurka na odtok pre umyvadlá
+* Tvrdený nepriesvitný plexit, staré reklamné tabule
 
-Všetky elektronické kompponenty sa dajú objednať aj priamo z číny cez aliexpress.com, ak plánujete toho urobit viac oplatí sa objednať rovno odtiaľ. Náklady na jeden vypínač klesnú na cca 6 EUR za kus
+Všetky elektronické kompponenty (samozrejme pájku a tavnú pištol by sa patrilo mať doma) sa dajú objednať aj priamo z číny cez [aliexpress.com](https://a.aliexpress.com/_BUODSY), ak plánujete viac inštalácií oplatí sa objednať rovno odtiaľ. Náklady na jeden vypínač klesnú cca 6 EUR na kus
 
