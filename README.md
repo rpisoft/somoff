@@ -17,7 +17,9 @@ Pretože súdruhovia vyhůtali modul tak, že miesto bootovania sa má spustiť 
 <img src="https://github.com/rpisoft/somoff/blob/main/images/fix5relay1.0.jpg" alt="Relatko"/> 
 
 ## Potrebné veci
-<img src="https://github.com/rpisoft/somoff/blob/main/images/need2.jpg" alt="Elektronika" />
+
+![Elektronika](https://github.com/rpisoft/somoff/blob/main/images/need2.jpg)
+
 * [Mini 5v AC-DC zdroj](https://techfun.sk/produkt/ac-dc-napatovy-zdroj/)
 * [ESP-01 modul](https://techfun.sk/produkt/wifi-modul-esp8266/)
 * [USB adapter na programovanie](https://techfun.sk/produkt/esp8266-serial-wifi-adapter/)
@@ -31,6 +33,4 @@ Pretože súdruhovia vyhůtali modul tak, že miesto bootovania sa má spustiť 
 * Svrkovnica
 * Kábel 0,75mm
 * Obojstranné lepiaca páska
-
-
 
