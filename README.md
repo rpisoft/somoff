@@ -12,6 +12,7 @@ Relátko zapina GPIO0 na module, takže na GPIO3 som pripojil TP233 dotykový se
 
 ![ESP 01](https://github.com/rpisoft/somoff/blob/main/images/ESP-01-ESP8266-pinout-gpio-pin.png)
 
-![Relatko](https://github.com/rpisoft/somoff/blob/main/images/fix5relay1.0.jpg)
+<img src="https://github.com/rpisoft/somoff/blob/main/images/fix5relay1.0.jpg" alt="Relatko" width="320"/>
+<img src="https://github.com/rpisoft/somoff/blob/main/images/need2.jpg" alt="Elektronika" width="320"/>
 
 
