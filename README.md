@@ -37,5 +37,5 @@ Pretože súdruhovia vyhůtali modul tak, že miesto bootovania sa má spustiť 
 * 50mm PVC rurka na odtok pre umyvadlá
 * Tvrdený nepriesvitný plexit, staré reklamné tabule
 
-Všetky elektronické komponenty (samozrejme pájku a tavnú pištol by sa patrilo mať doma) sa dajú objednať aj priamo z číny cez [aliexpress.com](https://a.aliexpress.com/_BUODSY), ak plánujete viac inštalácií oplatí sa objednať rovno odtiaľ. Náklady na jeden vypínač klesnú cca 6 EUR na kus
+Všetky elektronické komponenty (samozrejme pájku a tavnú pištol by sa patrilo mať doma) sa dajú objednať aj priamo z číny cez [aliexpress.com](https://www.aliexpress.com), ak plánujete viac inštalácií oplatí sa objednať rovno odtiaľ. Náklady na jeden vypínač klesnú cca 6 EUR na kus
 
