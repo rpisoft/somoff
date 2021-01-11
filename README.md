@@ -1,14 +1,14 @@
 # Som off?
-Moj nastenný WIFI vypínač
+Vlastný nastenný WIFI vypínač
 
 ## Ako vznikol somoff?
 Napad vznikol ako lacnejsie vyriesit chytru domacnost oproti existujucim znackam na trhu, hlavne k spokojnosti.
 
-Vacsina dostupnych blbosti ma vlastnu aplikaciu a len tazko sa dopracujete k tomu, aby ste vsetky prvky ovladali z rovnakej aplikacie a to aj bez pritomnosti internetu. Pouzity material je na baze co mame v dielni odlezane :-) resp. niektore veci si vyzaduju mensiu zrucnost a trpezlivost. Nobelovu cenu za toto asi neziskate, ovsem nezabudajte, ze forma z elektroliecby z 220V moze mat neziaduce nasledky. Takze opatrne s izolovanim kablov.
+Vačšina dostupných blbostí ma vlastnú aplikaciu a len tažko sa dopracujete k tomu, aby ste všetky prvky ovládali z rovnakej aplikície a to aj bez prítomnosti internetu. Použitý materiál je aj na báze čo mame v dielni odležané :-) resp. niektoré veci si vyžadujú menšiu zručnosť a trpezlivosť. Nobelovu cenu ani certifikát kvality za toto nečakám, urobil som to preto, to lebo to **ide urobiť**, tak sa chcem podeliť so skúsenosťami a tiež rád privítám vylepšenia. Netreba zabúdať, že forma elektroliečby z 220V môže mať aj nežiadúce následky, **takze opatrne s izolovaním káblov**.
 
 ![Vypinac](https://github.com/rpisoft/somoff/blob/main/images/somoff.jpg)
 
-Relatko zapina GPIO0 na module, ale podla nakresu vidiet, ze je tam este rezeva. Takze na GPIO3 som pripojil TP233 dotykovy senzor. Pretoze relatko ma v sebe zabudovany regulator na 3.3V koli ESP01 kradnut mozeme napatie z neho, Ja som to urobil zo spodnej casti, kde sa pripajkovali kabliky.
+Relátko zapina GPIO0 na module, ale podľa nákresu vidieť, že je tam ešte rezeva. Takže na GPIO3 som pripojil TP233 dotykový senzor. Pretože relátko má v sebe zabudovaný regulátor na 3.3V kôli ESP01, kradnúť môzeme napätie z neho, Ja som to urobil zo spodnej časti, kde som pripájkoval kábliky.
 
 ![ESP 01](https://github.com/rpisoft/somoff/blob/main/images/ESP-01-ESP8266-pinout-gpio-pin.png)
 
