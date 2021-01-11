@@ -17,19 +17,19 @@ Pretože súdruhovia vyhůtali modul tak, že miesto bootovania sa má spustiť 
 <img src="https://github.com/rpisoft/somoff/blob/main/images/fix5relay1.0.jpg" alt="Relatko"/> 
 
 ## Potrebné veci
-[Mini 5v AC-DC zdroj](https://techfun.sk/produkt/ac-dc-napatovy-zdroj/)
-[ESP-01 modul](https://techfun.sk/produkt/wifi-modul-esp8266/)
-[USB adapter na programovanie](https://techfun.sk/produkt/esp8266-serial-wifi-adapter/)
-[5v Relatko](https://rlx.sk/sk/iot-the-internet-of-things/6227-esp8266-esp-01esp-01s-relay-wifi-smart-control-module-for-arduinoraspberry-pi-er-esp11002r.html)
-[Kábliky 10 cm](https://techfun.sk/produkt/kabliky-40-kusov-10-cm-m-f/)
-[Dotykový modul TP223](https://techfun.sk/produkt/kapacitne-dotykove-tlacidlo-ttp223/)
-[Tavné tyčinky](https://techfun.sk/produkt/napln-do-tavnej-pistole/)
-[Tavná pištoľ](https://techfun.sk/produkt/tavna-pistol-40w-s-606/)
-[Cin](https://techfun.sk/produkt/cin-13g-0-8-mm/)
-[Pajka](https://techfun.sk/produkt/hrotova-spajkovacka-60w-s-nastavitelnou-teplotou/)
-Svrkovnica
-Kábel 0,75mm
-Obojstranné lepiaca páska
+* [Mini 5v AC-DC zdroj](https://techfun.sk/produkt/ac-dc-napatovy-zdroj/)
+* [ESP-01 modul](https://techfun.sk/produkt/wifi-modul-esp8266/)
+* [USB adapter na programovanie](https://techfun.sk/produkt/esp8266-serial-wifi-adapter/)
+* [5v Relatko](https://rlx.sk/sk/iot-the-internet-of-things/6227-esp8266-esp-01esp-01s-relay-wifi-smart-control-module-for-arduinoraspberry-pi-er-esp11002r.html)
+* [Kábliky 10 cm](https://techfun.sk/produkt/kabliky-40-kusov-10-cm-m-f/)
+* [Dotykový modul TP223](https://techfun.sk/produkt/kapacitne-dotykove-tlacidlo-ttp223/)
+* [Tavné tyčinky](https://techfun.sk/produkt/napln-do-tavnej-pistole/)
+* [Tavná pištoľ](https://techfun.sk/produkt/tavna-pistol-40w-s-606/)
+* [Cin](https://techfun.sk/produkt/cin-13g-0-8-mm/)
+* [Pajka](https://techfun.sk/produkt/hrotova-spajkovacka-60w-s-nastavitelnou-teplotou/)
+* Svrkovnica
+* Kábel 0,75mm
+* Obojstranné lepiaca páska
 
 
 
