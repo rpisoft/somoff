@@ -30,7 +30,12 @@ Pretože súdruhovia vyhůtali modul tak, že miesto bootovania sa má spustiť 
 * [Tavná pištoľ](https://techfun.sk/produkt/tavna-pistol-40w-s-606/)
 * [Cin](https://techfun.sk/produkt/cin-13g-0-8-mm/)
 * [Pajka](https://techfun.sk/produkt/hrotova-spajkovacka-60w-s-nastavitelnou-teplotou/)
-* Svrkovnica
+* [Piny najlepsie ohluté](https://techfun.sk/produkt/piny-40-kusov-zahnute-2-54-mm-1-riadok/)
+* Svorkovnica
 * Kábel 0,75mm
 * Obojstranné lepiaca páska
+* 50mm rurka na odtok pre umyvadlá
+* Tvrdený nepriesvitný plexit
+
+Všetky elektronické kompponenty sa dajú objednať aj priamo z číny cez aliexpress.com, ak plánujete toho urobit viac oplatí sa objednať rovno odtiaľ. Náklady na jeden vypínač klesnú na cca 6 EUR za kus
 
