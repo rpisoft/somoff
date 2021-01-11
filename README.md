@@ -13,7 +13,7 @@ Relátko zapina GPIO0 na module, takže na GPIO3 som pripojil TP233 dotykový se
 
 ![ESP 01](https://github.com/rpisoft/somoff/blob/main/images/ESP-01-ESP8266-pinout-gpio-pin.png)
 
-Pretože súdruhovia vyhůtali modul tak, že miesto bootovania sa má spustiť sériová komunikácia na čipe (podotýkam nešlo to ani keď som to dostal) tak sa musí urobiť menšia kozmetická úprava. Ak máte šťastie, tak dostanete relátko s modrou led a tak vypínač môže žiariť národnými farbami (biela, červená, modrá) a ak nie aj tak sa svet nezrúti.
+Pretože súdruhovia vyhůtali modul tak, že miesto bootovania sa má spustiť sériová komunikácia na čipe (podotýkam nešlo to ani keď som to dostal) tak sa musí urobiť menšia kozmetická úprava podľa nákresu. Ak máte šťastie, tak dostanete relátko s modrou led a tak vypínač môže žiariť národnými farbami (biela, červená, modrá), ak nie aj tak sa svet nezrúti.
 <img src="https://github.com/rpisoft/somoff/blob/main/images/fix5relay1.0.jpg" alt="Relatko"/> 
 
 ## Potrebné veci
@@ -30,12 +30,12 @@ Pretože súdruhovia vyhůtali modul tak, že miesto bootovania sa má spustiť 
 * [Tavná pištoľ](https://techfun.sk/produkt/tavna-pistol-40w-s-606/)
 * [Cin](https://techfun.sk/produkt/cin-13g-0-8-mm/)
 * [Pajka](https://techfun.sk/produkt/hrotova-spajkovacka-60w-s-nastavitelnou-teplotou/)
-* [Piny najlepsie ohluté](https://techfun.sk/produkt/piny-40-kusov-zahnute-2-54-mm-1-riadok/)
+* [Piny najlepsie ohnuté](https://techfun.sk/produkt/piny-40-kusov-zahnute-2-54-mm-1-riadok/)
 * Svorkovnica
 * Kábel 0,75mm
 * Obojstranné lepiaca páska
 * 50mm PVC rurka na odtok pre umyvadlá
 * Tvrdený nepriesvitný plexit, staré reklamné tabule
 
-Všetky elektronické kompponenty (samozrejme pájku a tavnú pištol by sa patrilo mať doma) sa dajú objednať aj priamo z číny cez [aliexpress.com](https://a.aliexpress.com/_BUODSY), ak plánujete viac inštalácií oplatí sa objednať rovno odtiaľ. Náklady na jeden vypínač klesnú cca 6 EUR na kus
+Všetky elektronické komponenty (samozrejme pájku a tavnú pištol by sa patrilo mať doma) sa dajú objednať aj priamo z číny cez [aliexpress.com](https://a.aliexpress.com/_BUODSY), ak plánujete viac inštalácií oplatí sa objednať rovno odtiaľ. Náklady na jeden vypínač klesnú cca 6 EUR na kus
 
