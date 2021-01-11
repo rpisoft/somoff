@@ -33,7 +33,7 @@ Pretože súdruhovia vyhůtali modul tak, že miesto bootovania sa má spustiť 
 * [Piny najlepsie ohnuté](https://techfun.sk/produkt/piny-40-kusov-zahnute-2-54-mm-1-riadok/)
 * Svorkovnica
 * Kábel 0,75mm
-* Obojstranné lepiaca páska
+* Obojstranná lepiaca páska
 * 50mm PVC rurka na odtok pre umyvadlá
 * Tvrdený nepriesvitný plexit, staré reklamné tabule
 
