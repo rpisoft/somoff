@@ -11,6 +11,6 @@ Vačšina dostupných blbostí ma vlastnú aplikaciu a len tažko sa dopracujete
 Relátko zapina GPIO0 na module, takže na GPIO3 som pripojil TP233 dotykový senzor. Pretože relátko má v sebe zabudovaný regulátor na 3.3V kôli ESP01, kradnúť môzeme napätie rovno z neho, Ja som to urobil zo spodnej časti, kde som pripájkoval kábliky.
 
 ![ESP 01](https://github.com/rpisoft/somoff/blob/main/images/ESP-01-ESP8266-pinout-gpio-pin.png)
-
+![Relatko](https://github.com/rpisoft/somoff/blob/main/images/fix5relay1.0.jpg)
 
 
