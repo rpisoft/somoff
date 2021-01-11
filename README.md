@@ -2,7 +2,7 @@
 Vlastný nastenný WIFI vypínač
 
 ## Ako vznikol somoff?
-Napad vznikol ako lacnejsie vyriesit chytru domacnost oproti existujucim znackam na trhu, hlavne k spokojnosti.
+Nápad vznikol ako lacnejšie vyriešit chytrú domacnosť oproti existujúcim značkám na trhu, ale hlavne k spokojnosti.
 
 Vačšina dostupných blbostí ma vlastnú aplikaciu a len tažko sa dopracujete k tomu, aby ste všetky prvky ovládali z rovnakej aplikácie a to aj bez prítomnosti internetu. Použitý materiál je aj na báze čo máme v dielni odležané :-) resp. niektoré veci si vyžadujú menšiu zručnosť a trpezlivosť. Nobelovu cenu ani certifikát kvality za toto nečakám, urobil som to preto, lebo to **ide urobiť**, tak sa chcem podeliť so skúsenosťami a tiež rád uvítám vylepšenia. Netreba zabúdať, že forma elektroliečby z 220V môže mať nežiadúce následky, **takže opatrne s izolovaním káblov**. Rámček vypínača som vytlačil na 3D tlačiarni, ale nič nebráni tomu aby sa použilo telo aj zo starého vypínača. Princíp asi nie je nutné vysvetľovať, všetko to vopchať do krabice, može sa lokálne prepínať, možnosť nahratia ľubovolného software Lua, Arduino, Tasmota, ESPHome, ESPEasy a ovládať na diaľku.
 
@@ -12,7 +12,7 @@ Relátko zapina GPIO0 na module, takže na GPIO3 som pripojil TP233 dotykový se
 
 ![ESP 01](https://github.com/rpisoft/somoff/blob/main/images/ESP-01-ESP8266-pinout-gpio-pin.png)
 
-Pretože súdruhovia vyhůtali modul tak, že miesto bootovania sa má spustiť sériová komunikácia na čipe (podotýkam nešlo to ani keď som to dostal) tak sa musí urobiť menšia kozmetická úprava.
+Pretože súdruhovia vyhůtali modul tak, že miesto bootovania sa má spustiť sériová komunikácia na čipe (podotýkam nešlo to ani keď som to dostal) tak sa musí urobiť menšia kozmetická úprava. Ak máte šťastie, tak dostanete relátko s modrou led a tak vypínač môže žiariť národnými farbami (biela, červená, modrá) a ak nie aj tak sa svet nezrúti.
 <img src="https://github.com/rpisoft/somoff/blob/main/images/fix5relay1.0.jpg" alt="Relatko"/> 
 
 
